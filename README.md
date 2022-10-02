@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osama.</h1>
 <h3 align="center">A Full Stack Web Developer.</h3>
-<img src="https://media4.giphy.com/media/iI9fd2UjMTgSGeKUEQ/giphy.gif?cid=790b7611c86d3946b8baf3d9e69078e30030bb9236321a1a&rid=giphy.gif&ct=g" width="400" align="right"astronaut">
+<img src="https://media4.giphy.com/media/iI9fd2UjMTgSGeKUEQ/giphy.gif?cid=790b7611c86d3946b8baf3d9e69078e30030bb9236321a1a&rid=giphy.gif&ct=g" width="400" align="right" alt="astronaut" style="border-radius: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowgly11&label=Profile%20views&color=0e75b6&style=flat" alt="mowgly11" /> </p>
 
