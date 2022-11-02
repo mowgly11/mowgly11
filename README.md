@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mowgly11&show_icons=true&locale=en&theme=tokyonight" alt="mowgly11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mowgly11&theme=tokyonight" alt="mowgly11" /></p>
+
+![Snake animation](https://github.com/mowgly11/mowgly11/blob/output/github-contribution-grid-snake.svg)
