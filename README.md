@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mowgly11&label=Profile%20views&color=0e75b6&style=flat" alt="mowgly11" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Kali Linux**
+- fullstack web developer, javascript and nodejs lover.
 - Check out my portfolio **https://osamabozalim.me**
 
 <h3 align="left" style="font-size: 3em;">Languages and Tools:</h3>
