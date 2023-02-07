@@ -8,7 +8,7 @@
 * I Currently use NodeJS to build projects
 * Check out my website: **https://osamabozalim.me**
 
-<h2 align="center" style="font-size: 3em;">Languages and Tools:</h2>
+<h2 align="left" style="font-size: 3em;">Languages and Tools:</h2>
 
 <h4>Languages</h4>
 
