@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome To My Profile.</h1>
 <img src="./imgs/astronaut-banner.jpg" width="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mowgly11&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mowgly11" /> </p>
+<p align="left"> <img src="./imgs/astronaut1.png" alt="mowgly11" /> </p>
 
 * Self-taught Developer For almost 2 years
 * I Currently use NodeJS to build projects
