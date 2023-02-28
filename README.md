@@ -5,7 +5,7 @@
 
 * Self-taught Developer For almost 2 years
 * I Currently use NodeJS to build projects
-* Check out my website: **https://osamabozalim.me**
+* Check out my website: **https://osamabozalim.me/**
 
 <h2 align="left" style="font-size: 3em;">Languages and Tools:</h2>
 
