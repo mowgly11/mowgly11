@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, Welcome To My Profile.</h1>
-<img src="./imgs/astronaut.png" width="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
 <p align="left"> <img src="https://camo.githubusercontent.com/5bcee429603fcb44d5b5031dbedc8a4179d9040b5ed883d4cd43382699381531/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f77676c793131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666f722d7468652d6261646765" alt="mowgly11" /> </p>
 
@@ -9,6 +8,8 @@ I am eager to contribute to projects and utilize my skills to benefit others. As
 
 * Check out my services: **https://www.fiverr.com/johnmarcusb**
 * Check out my website: **https://osamabozalim.me**
+
+<img src="./imgs/astronaut.png" width="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
 <h2 align="left" style="font-size: 3em;">Languages and Tools :</h2>
 
