@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://camo.githubusercontent.com/5bcee429603fcb44d5b5031dbedc8a4179d9040b5ed883d4cd43382699381531/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f77676c793131266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666f722d7468652d6261646765" alt="mowgly11" /> </p>
 
-* Self-taught Developer For almost 2 years.
-* I Currently use NodeJS to build projects.
+<p>Greetings, my name is Osama and I am a self-taught developer with nearly two years of experience in the field. As a Fiverr freelancer, I have spent the majority of my time developing Discord bots, but I have also expanded my skillset to include JavaScript and Node, which I use to build web applications, data mining scripts, and other projects. I am continuously expanding my knowledge base and have invested time in learning additional technologies, such as Python, Linux, and Docker.
+
+I am eager to contribute to projects and utilize my skills to benefit others. As a dedicated and passionate developer, I am committed to delivering high-quality work that exceeds expectations. I welcome any opportunities to collaborate on new and exciting projects.</p>
+
+* Check out my services: **https://www.fiverr.com/johnmarcusb**
 * Check out my website: **https://osamabozalim.me**
 
 <h2 align="left" style="font-size: 3em;">Languages and Tools :</h2>
