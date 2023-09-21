@@ -9,7 +9,7 @@ I am eager to contribute to projects and utilize my skills to benefit others. As
 * Check out my services: **https://www.fiverr.com/johnmarcusb**
 * Check out my website: **https://osamabozalim.me**
 
-<img src="./imgs/astronaut.png" width="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
+<img src="./imgs/1bfbad93-4193-426c-8a0a-5d79593a70ca.webp" width="250" height="250" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
 <h2 align="left" style="font-size: 3em;">Languages and Tools :</h2>
 
