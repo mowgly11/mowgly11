@@ -7,7 +7,7 @@ Greetings, my name is **Osama** and I am an **18 years** old **self-taught devel
 I am eager to contribute to projects and utilize my skills to benefit others. As a dedicated and passionate developer, I am committed to delivering high-quality work that exceeds expectations. I welcome any opportunities to collaborate on new and exciting projects.
 
 * Check out my services: **https://www.fiverr.com/johnmarcusb**
-* Check out my website: **https://osamabozalim.me**
+* Check out my website: **https://osamabozalim.com**
 
 <img src="./imgs/1bfbad93-4193-426c-8a0a-5d79593a70ca.webp" width="400" height="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
