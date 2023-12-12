@@ -4,8 +4,9 @@
 
 just a random programmer, i make things for fun and sometimes for money.
 
-* Check out my services: **https://www.fiverr.com/johnmarcusb**
-* Check out my website: **https://osamabozalim.com**
+* services: **https://www.fiverr.com/johnmarcusb**
+* website: **https://osamabozalim.com**
+* codewars: **https://www.codewars.com/users/mowgly11**
 
 <img src="./imgs/1bfbad93-4193-426c-8a0a-5d79593a70ca.webp" width="400" height="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
