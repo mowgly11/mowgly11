@@ -33,7 +33,7 @@ just a random programmer, i make things for fun and sometimes for money.
 
 
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a> </p>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mowgly11&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
