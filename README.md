@@ -8,7 +8,7 @@ just a random programmer, i make things for fun and sometimes for money.
 * website: **https://osamabozalim.com**
 * codewars: **https://www.codewars.com/users/mowgly11**
 
-<img src="./imgs/00019-3385693539.png" width="512" height="512" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
+<img src="./imgs/00019-3385693539.png" width="400" height="400" align="right" alt="astronaut" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
 <h2 align="left" style="font-size: 3em;">Languages and Tools :</h2>
 
