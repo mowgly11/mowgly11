@@ -3,7 +3,7 @@
 just a random programmer. i make things for fun, sometimes for money.
 
 * services: **https://www.fiverr.com/johnmarcusb**
-* website: **https://osamabozalim.com**
+* website: **https://osamabouzalim.com**
 * codewars: **https://www.codewars.com/users/mowgly11**
 
 <img src="./imgs/00019-3385693539.png" width="400" height="400" align="right" alt="wizard" style="border-radius: 10px; margin-top: 20px;" draggable="false">
