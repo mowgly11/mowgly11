@@ -8,7 +8,7 @@ just a random programmer. i make things for fun, sometimes for money.
 
 <img src="https://i.postimg.cc/6pMtP0JG/astronaut-working-on-computer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats-standing.webp" width="350" height="350" align="right" alt="wizard" style="border-radius: 10px; margin-top: 20px;" draggable="false">
 
-<h2 align="left" style="font-size: 3em;">Languages and Tools :</h2>
+<h3 align="left" style="font-size: 3em;">Languages and Tools :</h3>
 
 <h4>Languages :</h4>
 
