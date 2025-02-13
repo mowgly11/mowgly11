@@ -26,4 +26,4 @@ just a random programmer. i make things for fun, sometimes for money.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mowgly11&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/mowgly11/mowgly11/blob/output/github-contribution-grid-snake.svg)
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> </picture>
